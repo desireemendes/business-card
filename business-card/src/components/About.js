@@ -1,15 +1,15 @@
-import Header from "./Header";
 
 function About () {
     return (
       <div className="About">
           <h1>About</h1>
           <p>
-            About me section
+            I am a full-stack developer who enjoys creativity on the frontend, and also cares about app security.
+            I enjoy learning about web application vulnerabilities.
           </p>  
           <h1>Interests</h1>
           <p>
-            Interests section
+            CTF's. Ethical Hacking. Travelling. Architecture. Learning new technologies. Web 3.0.
           </p>
       </div>
     );
